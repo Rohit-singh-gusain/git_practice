@@ -5,4 +5,5 @@ d = 50
 e = 100
 f = 200
 g = 500
-print(a+b+c+d+e+f+g)
+h = 1000
+print(a+b+c+d+e+f+g+h)
